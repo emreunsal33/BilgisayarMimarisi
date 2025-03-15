@@ -1,2 +1,2 @@
 # BilgisayarMimarisi
-Nilgisayar Mimarisi Ders Notları
+Bilgisayar Mimarisi Ders Notları
